@@ -2,6 +2,7 @@
 CLI utility to help in info gathering.
 
 ### usage
+```
 usage: qjs dorks [options]
   -b  --backup-files         .bkf, .bkp, .bak, .old, .backup  
   
@@ -38,5 +39,5 @@ usage: qjs dorks [options]
   -t  --target               Your target. Can be a domain, a full url, etc. Based on the arguments of your chose.  
   
   -v  --view                 text representation of the target.  
-  
+```
   
